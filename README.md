@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there 👋, I'm Dawar Khan
 
-<!--
-**dawarkhan-ai/dawarkhan-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE-AIML Student | 💻 Python & Machine Learning Enthusiast | 🔍 Currently learning Flask Web Dev and DSA with Python
 
-Here are some ideas to get you started:
+- 🌱 I’m currently focusing on **Data Structures and Algorithms**, **Flask Projects**, and **Data Science Projects**
+- 🔭 2025 goal: Build 3 live projects + Solve 200+ DSA problems
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/your-profile) | [Email](dawarkhan043@email.com)
+- ✨ Fun fact: I love coding, music and playing Free Fire 🎮
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🛠️ Tech Stack:
+- Languages: `C`, `C++`, `Java`, `Python`, `HTML`, `CSS`, `JavaScript`
+- Tools: `Git`, `GitHub`, `VS Code`
+- Frameworks: `Flask`, `NumPy`, `Pandas`, `scikit-learn`
+
+#### 📈 GitHub Stats
+![Sanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanu-ai&show_icons=true&theme=radical)
+
+---
+
