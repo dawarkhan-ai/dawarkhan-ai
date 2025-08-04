@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently focusing on **Data Structures and Algorithms**, **Flask Projects**, and **Data Science Projects**
 - 🔭 2025 goal: Build 3 live projects + Solve 200+ DSA problems
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dawar-khan-4926b2378/) | [LinkedIn] (https://leetcode.com/u/dawar_coder/) | [Email](dawarkhan043@email.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dawar-khan-4926b2378/) | [LeetCode] (https://leetcode.com/u/dawar_coder/) | [Email](dawarkhan043@email.com)
 - ✨ Fun fact: I love coding, music and playing Free Fire 🎮
 
 ---
