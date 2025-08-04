@@ -15,7 +15,7 @@
 - Frameworks: `Flask`, `NumPy`, `Pandas`, `scikit-learn`
 
 #### 📈 GitHub Stats
-![Sanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanu-ai&show_icons=true&theme=radical)
+![Sanu's GitHub stats]()
 
 ---
 
